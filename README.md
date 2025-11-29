@@ -1,4 +1,4 @@
-# MemeStorm
+# MemeStorm ![Static Badge](https://img.shields.io/badge/Statut-En%20Cours-green)
 
 **MemeStorm** est un petit programme en C utilisant les librairies **SDL2** et **SDL2_image** et qui fait apparaître des memes aléatoirement sur l’écran.  
 Chaque meme s’affiche dans une **fenêtre indépendante**, à un **emplacement et une taille aléatoires**.
